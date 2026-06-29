@@ -49,8 +49,8 @@ Kami membangun produk menggunakan *stack* modern yang berfokus pada skalabilitas
 Mari diskusi tentang kode, kolaborasi *project*, atau pertanyaan seputar produk komersial kami:
 
 - 📧 **Email:** [hello@stokqu.com](mailto:hello@stokqu.com)
-- 📸 **Instagram:** [@stokqu](https://instagram.com/stokqu)
-- 🎵 **TikTok:** [@stokqu](https://tiktok.com/@stokqu)
+- 📸 **Instagram:** [@stokquproject](https://instagram.com/stokquproject)
+- 🎵 **TikTok:** [@stokquproject](https://tiktok.com/@stokquproject)
 
 <br>
 
